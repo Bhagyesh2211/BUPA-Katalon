@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Yes_sd-item__decorator sd-radio__decorator (19)</name>
+   <tag></tag>
+   <elementGuidId>0987bdf3-2ccb-4d77-9685-b620aaffd077</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sq_145']/div/fieldset/div[2]/div/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>25fe032d-d7a1-4d23-8d5b-09bdd3b32be0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>css: question.koCss().materialDecorator</value>
+      <webElementGuid>d680b473-0ed4-472b-a1aa-15a81dd5bb60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sd-item__decorator sd-radio__decorator</value>
+      <webElementGuid>55d209fe-6940-4489-9651-7ff728e0297a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sq_145&quot;)/div[@class=&quot;sd-question__content&quot;]/fieldset[@class=&quot;sd-selectbase sd-selectbase--multi-column&quot;]/div[@class=&quot;sd-selectbase__column sv-q-column-2&quot;]/div[@class=&quot;sd-item sd-radio sd-selectbase__item sd-item--allowhover sd-radio--allowhover&quot;]/label[@class=&quot;sd-selectbase__label&quot;]/span[@class=&quot;sd-item__decorator sd-radio__decorator&quot;]</value>
+      <webElementGuid>2f3affa8-e257-4789-a9dd-04dd8ad173e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sq_145']/div/fieldset/div[2]/div/label/span</value>
+      <webElementGuid>5ab7c79b-5b56-47d1-ac6c-b3a93786ede1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[1]/following::span[1]</value>
+      <webElementGuid>cf912439-e90c-4a09-8f5e-de8990136bd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::span[1]</value>
+      <webElementGuid>edfe64d4-2921-4e76-80fb-5aff3f2302e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submitting...'])[1]/preceding::span[3]</value>
+      <webElementGuid>a210d023-568d-4e38-9580-fecf7347ca4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/label/span</value>
+      <webElementGuid>7052576f-a9c0-4a08-9c08-4dfae74d2720</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

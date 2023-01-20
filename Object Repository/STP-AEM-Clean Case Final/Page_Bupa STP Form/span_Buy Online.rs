@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Buy Online</name>
+   <tag></tag>
+   <elementGuidId>c18131c9-bf25-4b68-8c69-34010d34f914</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='guideContainer-rootPanel-panel_322752692-panel-panel-panel-guidebutton_2133767352___widget']/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#guideContainer-rootPanel-panel_322752692-panel-panel-panel-guidebutton_2133767352___widget > span.iconButton-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c1803ea2-6930-4cd2-983a-83795598d7a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>iconButton-label</value>
+      <webElementGuid>7b312d26-5654-42a8-bacd-2a34224edd40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-guide-button-label</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>232b21b4-5fe4-4ae5-9202-5b154dc883b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Buy Online</value>
+      <webElementGuid>67dd7a3f-7e96-4a92-b736-d32a8aac8601</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;guideContainer-rootPanel-panel_322752692-panel-panel-panel-guidebutton_2133767352___widget&quot;)/span[@class=&quot;iconButton-label&quot;]</value>
+      <webElementGuid>86413ca2-935c-4234-a293-84ee26f8faeb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='guideContainer-rootPanel-panel_322752692-panel-panel-panel-guidebutton_2133767352___widget']/span[2]</value>
+      <webElementGuid>0be31746-7fec-4703-a458-e1bbb00c1363</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modify'])[1]/following::span[2]</value>
+      <webElementGuid>f296e3e9-1a2b-4e5e-8c0f-d2e03fe870b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter your information to get a quote'])[1]/following::span[4]</value>
+      <webElementGuid>8fcc9754-4b01-4542-869b-d19d16785cc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get my quote'])[1]/preceding::span[1]</value>
+      <webElementGuid>0e527dfb-de80-42b5-81f2-46927d36b7a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your subscription and levy (after discounts)'])[1]/preceding::span[1]</value>
+      <webElementGuid>27915e96-3c36-4bde-977b-ce3562c143d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Buy Online']/parent::*</value>
+      <webElementGuid>6d128fef-6639-41f0-b02b-6b72c07836a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div[4]/div/div/div/div/div/div[3]/div/div/div/button/span[2]</value>
+      <webElementGuid>978a476c-5bfd-4761-b0c4-b8eabb0b1201</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Buy Online' or . = 'Buy Online')]</value>
+      <webElementGuid>5a87fe0a-a177-4701-ad12-5c76614c49e7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

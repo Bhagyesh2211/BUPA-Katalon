@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_inch</name>
+   <tag></tag>
+   <elementGuidId>ccf61e7a-07b3-4d1f-b92f-f74df90d5592</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='Label_height_inch']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Label_height_inch > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>af115cce-720e-451f-9435-840c3d9dff1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>inch</value>
+      <webElementGuid>b4b8df61-7fb3-4847-8139-17d7cc1db73a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Label_height_inch&quot;)/span[1]</value>
+      <webElementGuid>8bcb23f6-6766-4b50-a12c-88dd62e77ba8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//label[@id='Label_height_inch']/span</value>
+      <webElementGuid>663a9abc-96d4-4617-b284-1336c7fcaf0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='cm'])[1]/following::span[1]</value>
+      <webElementGuid>244d7672-59a9-4297-afc7-527ebf6aa9a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Height'])[1]/following::span[2]</value>
+      <webElementGuid>c2631f45-f749-4dc5-9817-884ec041431b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter your height'])[1]/preceding::span[1]</value>
+      <webElementGuid>590c7d2b-5f5b-48b3-a533-d5e46adce1cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Weight'])[1]/preceding::span[1]</value>
+      <webElementGuid>4e0664b1-49a8-4c06-bd71-773b89855edd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='inch']/parent::*</value>
+      <webElementGuid>e1b4ef77-2c8d-4c6c-ba67-f6559dccd895</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div[2]/div/div/label[2]/span</value>
+      <webElementGuid>3c761e0e-e202-4bf7-a098-3e3d61924183</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'inch' or . = 'inch')]</value>
+      <webElementGuid>b2853323-89bd-45cb-a271-5df5024e3a2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

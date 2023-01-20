@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_MonthlyFirst 2 months subscription and levy will be charged as initial payment</name>
+   <tag></tag>
+   <elementGuidId>d61dbd06-690a-4af6-837f-0ab27cc986a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='label_Payment_Month']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#label_Payment_Month</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>65c76692-4c49-4fd8-a5a8-ba1e42ab7547</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>Payment_form_Month</value>
+      <webElementGuid>dacefb74-83c9-40ee-802d-152241ee2924</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label_en</value>
+      <webElementGuid>6072ec70-e10b-4317-b7d5-809ee700348c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>label_Payment_Month</value>
+      <webElementGuid>915446a9-3760-44b5-9f32-b090010f53a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MonthlyFirst 2 months' subscription and levy will be charged as initial payment
+</value>
+      <webElementGuid>0740e48e-b3df-4961-8695-7a04b9c1fa1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;label_Payment_Month&quot;)</value>
+      <webElementGuid>28b39681-051d-413d-85cf-3ca2019dfa3a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label[@id='label_Payment_Month']</value>
+      <webElementGuid>1d287ddf-a1d1-4625-a67c-e0b9db74be32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='Pre_Quote_Select_Option']/label)[2]</value>
+      <webElementGuid>a2cee257-e7cf-4775-b88c-59a9515d64f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yearly'])[1]/following::label[1]</value>
+      <webElementGuid>0537e43c-b859-4ce3-92ac-b3597ae1bd47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Mode'])[1]/following::label[2]</value>
+      <webElementGuid>2d220b66-6daa-451e-82be-381e594b7fbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div[2]/label</value>
+      <webElementGuid>63ba79dc-62a6-48a9-8a71-f0a22f4f727c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = 'label_Payment_Month' and (text() = concat(&quot;MonthlyFirst 2 months&quot; , &quot;'&quot; , &quot; subscription and levy will be charged as initial payment
+&quot;) or . = concat(&quot;MonthlyFirst 2 months&quot; , &quot;'&quot; , &quot; subscription and levy will be charged as initial payment
+&quot;))]</value>
+      <webElementGuid>37fc57b0-9c9e-4cb3-838f-c27861c49bd2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

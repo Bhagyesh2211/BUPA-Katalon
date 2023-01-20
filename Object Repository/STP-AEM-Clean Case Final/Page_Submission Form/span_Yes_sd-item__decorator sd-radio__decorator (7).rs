@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Yes_sd-item__decorator sd-radio__decorator (7)</name>
+   <tag></tag>
+   <elementGuidId>8c510ebe-d2a5-4281-a06e-60527a4eec6a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sq_121']/div/fieldset/div[2]/div/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>93dd713e-f824-4387-8b4d-bfaa99dea189</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>css: question.koCss().materialDecorator</value>
+      <webElementGuid>4bb91d9f-dfd8-4923-a362-7a0b79a552c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sd-item__decorator sd-radio__decorator</value>
+      <webElementGuid>28c9b590-343c-4b12-9aaf-978ef587c50e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sq_121&quot;)/div[@class=&quot;sd-question__content&quot;]/fieldset[@class=&quot;sd-selectbase sd-selectbase--multi-column&quot;]/div[@class=&quot;sd-selectbase__column sv-q-column-2&quot;]/div[@class=&quot;sd-item sd-radio sd-selectbase__item sd-item--allowhover sd-radio--allowhover&quot;]/label[@class=&quot;sd-selectbase__label&quot;]/span[@class=&quot;sd-item__decorator sd-radio__decorator&quot;]</value>
+      <webElementGuid>3b16db30-9d6a-489c-b8cb-157e90d1e6cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sq_121']/div/fieldset/div[2]/div/label/span</value>
+      <webElementGuid>9ae25844-2e7b-4e4d-9d68-6945384c6034</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[1]/following::span[1]</value>
+      <webElementGuid>34b854a9-cd2a-47af-9051-d4ad58ac3660</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::span[1]</value>
+      <webElementGuid>04f88e0f-fd4d-462c-b8fb-9e1bf65d118b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submitting...'])[1]/preceding::span[3]</value>
+      <webElementGuid>e9fae2db-5221-4641-94d5-40d4147001d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/label/span</value>
+      <webElementGuid>4215c256-2e8f-46fb-bf2a-933db6a5d053</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

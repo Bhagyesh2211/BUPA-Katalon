@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Clinical benefit</name>
+   <tag></tag>
+   <elementGuidId>25a88787-b1b0-4f0a-8400-c7d94749cce5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Self_Clinical']/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Self_Clinical > label.label_en</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>710769ec-06d9-4b48-81d9-e3e64761a359</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label_en</value>
+      <webElementGuid>f2cf5a53-42b3-4d8a-883c-ba746732e946</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>CB_Self_Clinical</value>
+      <webElementGuid>711721f9-6fc5-40ce-bdec-60582d5daea5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Clinical benefit 
+</value>
+      <webElementGuid>53b69386-505d-434f-b12f-9b4f4f2bb6ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Self_Clinical&quot;)/label[@class=&quot;label_en&quot;]</value>
+      <webElementGuid>ae06641e-4025-407d-b9ff-2648f10eb646</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Self_Clinical']/label</value>
+      <webElementGuid>fb19edec-7d1b-4d02-acea-e39729714861</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add other optional benefit(s)'])[1]/following::label[2]</value>
+      <webElementGuid>0e4c9010-6ad6-4fae-968a-b0741d642a67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lump Sum Hospital &amp; Surgical Benefit'])[1]/following::label[2]</value>
+      <webElementGuid>f767da29-6b72-4828-a69c-95b559b8bb17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My'])[1]/preceding::label[1]</value>
+      <webElementGuid>63b96337-1d8a-481d-8910-116cc50b9cb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/label</value>
+      <webElementGuid>e3284862-8e71-445f-b261-33eab1c010a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Clinical benefit 
+' or . = 'Clinical benefit 
+')]</value>
+      <webElementGuid>6c877b00-6729-4290-8cf1-67de1665368b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

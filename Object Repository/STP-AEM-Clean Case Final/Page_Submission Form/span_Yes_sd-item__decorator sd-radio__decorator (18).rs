@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Yes_sd-item__decorator sd-radio__decorator (18)</name>
+   <tag></tag>
+   <elementGuidId>d6b22eaa-11a5-4c89-950c-5adba26e2048</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sq_143']/div/fieldset/div[2]/div/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>03d3a24d-1c26-4e92-802f-0b9a6c9a0e99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>css: question.koCss().materialDecorator</value>
+      <webElementGuid>e1ca2361-0b19-4894-bcc9-02751c53693f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sd-item__decorator sd-radio__decorator</value>
+      <webElementGuid>d9bb3460-4679-4213-8299-2886d9117d4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sq_143&quot;)/div[@class=&quot;sd-question__content&quot;]/fieldset[@class=&quot;sd-selectbase sd-selectbase--multi-column&quot;]/div[@class=&quot;sd-selectbase__column sv-q-column-2&quot;]/div[@class=&quot;sd-item sd-radio sd-selectbase__item sd-item--allowhover sd-radio--allowhover&quot;]/label[@class=&quot;sd-selectbase__label&quot;]/span[@class=&quot;sd-item__decorator sd-radio__decorator&quot;]</value>
+      <webElementGuid>59840b48-d338-4a21-91c6-f5a39125167d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sq_143']/div/fieldset/div[2]/div/label/span</value>
+      <webElementGuid>fa537501-6b2e-4144-ad25-192dd34b5bef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[1]/following::span[1]</value>
+      <webElementGuid>8428abc3-4487-48ed-a074-b3768e0faad0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Q7 (j) : Multiple sclerosis'])[1]/following::span[4]</value>
+      <webElementGuid>26d6afae-a72b-4af6-bf66-9e3a37eb631e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::span[1]</value>
+      <webElementGuid>aaa74849-b34f-4df5-a722-804f26bed56e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submitting...'])[1]/preceding::span[3]</value>
+      <webElementGuid>20e13676-e29d-4119-8752-9cb30e5eeeff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/label/span</value>
+      <webElementGuid>33d29ce7-ab48-4559-b361-d23fc4ec4df5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Supplementary Major Medical Benefit</name>
+   <tag></tag>
+   <elementGuidId>7f2a84c9-e7b2-49eb-851d-399acbc3bb24</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='SOB_SMM']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#SOB_SMM > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0c126b4e-3eab-4b9a-ad0f-e36d020ff260</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Supplementary Major Medical Benefit (only for applicants who have chosen the Itemised  Hospital and Surgical Benefit)</value>
+      <webElementGuid>9ed59aab-7d8f-4c7d-82fd-2f99cd489e52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SOB_SMM&quot;)/span[1]</value>
+      <webElementGuid>e5a887a0-3ac0-4b28-b892-c8ec524ceb77</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='SOB_SMM']/span</value>
+      <webElementGuid>97275255-8f09-49c9-95b3-dba7be34cf76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add other optional benefit(s)'])[1]/following::span[2]</value>
+      <webElementGuid>0b23b400-5341-4bb0-8a6b-c2e888c0ac99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lump Sum Hospital &amp; Surgical Benefit'])[1]/following::span[4]</value>
+      <webElementGuid>dc3737a8-43cc-49ea-b2bc-285d173aeb5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clinical benefit'])[1]/preceding::span[3]</value>
+      <webElementGuid>0a10b591-05d2-409d-9a69-23c2b23d2068</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My'])[1]/preceding::span[6]</value>
+      <webElementGuid>ffc1b30c-67d1-4cc7-8a16-430dd41629a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>5f9197c7-e2c3-41b5-b535-3f495fb712ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Supplementary Major Medical Benefit (only for applicants who have chosen the Itemised  Hospital and Surgical Benefit)' or . = 'Supplementary Major Medical Benefit (only for applicants who have chosen the Itemised  Hospital and Surgical Benefit)')]</value>
+      <webElementGuid>a2cf0a28-08ce-4c61-961d-583fa3ab8004</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

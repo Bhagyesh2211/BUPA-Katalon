@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Supplementary Major Medical Benefit</name>
+   <tag></tag>
+   <elementGuidId>5a4ce289-a131-419f-9c2a-1e5fccf4d6e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='Label_SMM']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Label_SMM</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>a44122e5-8de5-4068-9361-95635563f378</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label_en</value>
+      <webElementGuid>a1eccd8f-af00-45f8-8058-c4641634b337</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>CB_Self_Supplementary_Medical</value>
+      <webElementGuid>886892f8-c20c-4459-8ce9-08fcc00cf751</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Label_SMM</value>
+      <webElementGuid>5588fa5c-a30b-4add-9394-6987561106df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Supplementary Major Medical Benefit (only for applicants who have chosen the Itemised  Hospital and Surgical Benefit) 
+</value>
+      <webElementGuid>a5baf956-e716-4dc4-b868-6cbd80bdfe05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Label_SMM&quot;)</value>
+      <webElementGuid>cb58ec96-99c9-41c5-beeb-751069333844</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label[@id='Label_SMM']</value>
+      <webElementGuid>2120936f-7aaa-4eed-9a0a-67fa616d468d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Self_Supplementary_Medical']/label</value>
+      <webElementGuid>4019dd42-6164-40b3-a75f-0268fb8c5a3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add other optional benefit(s)'])[1]/following::label[1]</value>
+      <webElementGuid>0f6631f7-8cd2-4f9f-955d-f88fb4954851</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lump Sum Hospital &amp; Surgical Benefit'])[1]/following::label[1]</value>
+      <webElementGuid>1052a4e2-0873-4dd0-958c-903bf6490d47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clinical benefit'])[1]/preceding::label[1]</value>
+      <webElementGuid>91a1b988-4f51-4e8b-ba6d-f3e638eff89d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My'])[1]/preceding::label[2]</value>
+      <webElementGuid>5a56dffe-27ed-4fe4-84bc-b09050b83cfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div/div/label</value>
+      <webElementGuid>b95779e2-6528-4ed0-b1ac-622bcdc8feec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = 'Label_SMM' and (text() = 'Supplementary Major Medical Benefit (only for applicants who have chosen the Itemised  Hospital and Surgical Benefit) 
+' or . = 'Supplementary Major Medical Benefit (only for applicants who have chosen the Itemised  Hospital and Surgical Benefit) 
+')]</value>
+      <webElementGuid>f99ce8e4-0511-4473-b5aa-7aec1685ab25</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

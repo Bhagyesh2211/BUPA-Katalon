@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Lump Sum Hospital  Surgical Benefit</name>
+   <tag></tag>
+   <elementGuidId>022f880a-0ce8-49fc-9f3e-503157ef59da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='Label_GL_LS']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Label_GL_LS</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>5af46e8a-ab4d-4bb9-b063-b4e135589fbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label_en</value>
+      <webElementGuid>1acd67e2-7c04-414c-9ee7-e1121b81e160</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>Basic_Guarantee_Level_LS</value>
+      <webElementGuid>a2e1bca3-dc52-44f3-bc8c-d3400f7193a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Label_GL_LS</value>
+      <webElementGuid>5a1584b0-2633-48ff-8534-888a1d0c84aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lump Sum Hospital &amp; Surgical Benefit 
+</value>
+      <webElementGuid>f3e96e16-aea1-4cfe-8d79-3eeafdf98d99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Label_GL_LS&quot;)</value>
+      <webElementGuid>0c5f6dfb-0e2c-4ec0-b913-a7e73762291a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label[@id='Label_GL_LS']</value>
+      <webElementGuid>03cff311-0f73-47b2-b898-be2592d1f9fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='Pre_Quote_Select_Option']/label)[7]</value>
+      <webElementGuid>89d90a89-3305-4324-a9b1-72cb9ca8e34e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Itemised Hospital &amp; Surgical Benefit'])[1]/following::label[1]</value>
+      <webElementGuid>59c2123a-24b5-4e69-bc15-4ac3723c3389</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Basic Benefit'])[1]/following::label[2]</value>
+      <webElementGuid>637a99b0-7a50-4898-95c2-2efc4ffe5812</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add other optional benefit(s)'])[1]/preceding::label[1]</value>
+      <webElementGuid>887a9191-89aa-4ae9-ab7d-af6ec7013837</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div[2]/label</value>
+      <webElementGuid>d3c2c9d6-ecb0-4771-8c91-91d9c3de0388</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = 'Label_GL_LS' and (text() = 'Lump Sum Hospital &amp; Surgical Benefit 
+' or . = 'Lump Sum Hospital &amp; Surgical Benefit 
+')]</value>
+      <webElementGuid>301a0821-e705-4249-b828-c2beb1f886c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Itemised Hospital  Surgical Benefit</name>
+   <tag></tag>
+   <elementGuidId>ccb1189c-7642-499d-a97b-702969cac97e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='Label_GL_Itemized']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Label_GL_Itemized</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>da50b299-615b-40a1-862d-7abc6030695c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label_en</value>
+      <webElementGuid>97940e70-d4c1-4b72-bde8-777ed6fee09f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>Basic_Guarantee_Level_Itemized</value>
+      <webElementGuid>533c45cc-7087-4fa3-a539-97e65218acbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Label_GL_Itemized</value>
+      <webElementGuid>20ff8d60-0d07-4b75-8a4b-ed28e41f645f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Itemised Hospital &amp; Surgical Benefit 
+</value>
+      <webElementGuid>2d0a91bd-e1f8-4027-a826-43e2bac59264</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Label_GL_Itemized&quot;)</value>
+      <webElementGuid>bc4add6c-d39e-44a3-95f6-025d26ff67d4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label[@id='Label_GL_Itemized']</value>
+      <webElementGuid>e662f232-da47-4e7c-8e4b-b35a8d423ea5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='Pre_Quote_Select_Option']/label)[6]</value>
+      <webElementGuid>08b516c4-43de-47e4-9166-bf17fef3a0b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Basic Benefit'])[1]/following::label[1]</value>
+      <webElementGuid>97103aac-c075-45e2-9621-86fe37a14b1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ward'])[1]/following::label[1]</value>
+      <webElementGuid>f71fc563-6cd2-424d-a8ad-40cc2e3a39a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lump Sum Hospital &amp; Surgical Benefit'])[1]/preceding::label[1]</value>
+      <webElementGuid>0309145b-674f-4c2f-ad77-03c54a07490f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div/label</value>
+      <webElementGuid>edf90b61-086d-49f9-bff5-ae284670fb6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = 'Label_GL_Itemized' and (text() = 'Itemised Hospital &amp; Surgical Benefit 
+' or . = 'Itemised Hospital &amp; Surgical Benefit 
+')]</value>
+      <webElementGuid>e8806c5d-0dd0-4bb5-947c-f0ea6993e1ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Claim Submission</name>
+   <tag></tag>
+   <elementGuidId>69cbaa64-e1d1-4bd6-8ede-c91c7ceddd34</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.quicklinks__link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div/div/div/div/div[2]/div/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6c3e3040-b2f2-4e35-b0e5-c4b3a5f07fd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/claims/make-claim-entry?src=banner</value>
+      <webElementGuid>99142a85-5c62-400d-90ff-e0e1e714ae4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>quicklinks__link</value>
+      <webElementGuid>a9d945b6-f5f1-459d-b60b-3faf848a4db5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Claim Submission</value>
+      <webElementGuid>eccd1b8a-98de-4d5a-a4d7-12ff753c62ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Claim Submission</value>
+      <webElementGuid>88e2795a-e1db-4647-9e63-f8b79efe7ed8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;banner banner--hero lazyloaded&quot;]/div[@class=&quot;banner__content banner__content--hero lazyloaded&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 col-lg-4 col-lg-offset-2&quot;]/div[@class=&quot;quicklinks bg-primary-transparency--75&quot;]/ul[@class=&quot;quicklinks__list&quot;]/li[@class=&quot;quicklinks__item&quot;]/a[@class=&quot;quicklinks__link&quot;]</value>
+      <webElementGuid>28d4ddbe-12db-41a8-9c45-df81923f4954</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div/div/div/div[2]/div/ul/li/a</value>
+      <webElementGuid>e5d62c1b-030e-4c3d-85a2-36c676e06474</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Claim Submission')]</value>
+      <webElementGuid>42d19554-f7da-44bc-9369-380285d224b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome!'])[1]/following::a[1]</value>
+      <webElementGuid>7431af75-c832-48f4-8e4b-db04eaf8ead0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hi'])[1]/following::a[1]</value>
+      <webElementGuid>5acfabb6-a4ee-42df-8c99-ebb10c8e17ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View claims history'])[1]/preceding::a[1]</value>
+      <webElementGuid>73c3931e-9a78-4957-baff-6b597d5aab5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Network Doctor Finder'])[1]/preceding::a[2]</value>
+      <webElementGuid>d2a5b0ee-f046-43e8-b893-c99773bd48e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Claim Submission']/parent::*</value>
+      <webElementGuid>2fcd28ab-3dbf-477a-a5b7-e7c896639f46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/claims/make-claim-entry?src=banner')]</value>
+      <webElementGuid>8e325dd8-58c0-40f1-8910-59ccbaac1ef9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ul/li/a</value>
+      <webElementGuid>466fb642-1297-489b-81db-645dc37c0bd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/claims/make-claim-entry?src=banner' and @title = 'Claim Submission' and (text() = 'Claim Submission' or . = 'Claim Submission')]</value>
+      <webElementGuid>b88b778f-0579-4da8-88a2-da7a1da5b5e1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

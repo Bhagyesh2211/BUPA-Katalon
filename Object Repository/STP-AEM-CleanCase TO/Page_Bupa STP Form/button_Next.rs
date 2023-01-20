@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Next</name>
+   <tag></tag>
+   <elementGuidId>142fd1c3-b1c9-463c-bab7-88940c926418</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='go_Pre_Quote']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and @id = 'guideContainer-rootPanel-panel1641789048390-panel_copy-guidebutton_1137967308___widget' and @name = 'guideContainer-rootPanel-panel1641789048390-panel_copy-guidebutton_1137967308___jqName' and (text() = '
+        
+        Next
+    ' or . = '
+        
+        Next
+    ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#guideContainer-rootPanel-panel1641789048390-panel_copy-guidebutton_1137967308___widget</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4909d973-3f11-4882-8c73-e94fc528eba3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-default button-medium Button</value>
+      <webElementGuid>bb22ac36-4fdd-41d1-b982-c5d7face08ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>25602d72-0c40-4f46-841b-f84d748512a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>guideContainer-rootPanel-panel1641789048390-panel_copy-guidebutton_1137967308___widget</value>
+      <webElementGuid>ea5af30b-b5e6-4878-97eb-9ac2fdbc0c0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>guideContainer-rootPanel-panel1641789048390-panel_copy-guidebutton_1137967308___jqName</value>
+      <webElementGuid>bbc06e7e-74ca-46eb-94fb-4810a7325569</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>a3805c58-f439-445a-886b-6f823931fb86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Next</value>
+      <webElementGuid>ce570bf2-c5c3-4cb0-9a09-273dabb6ac79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+        
+        Next
+    </value>
+      <webElementGuid>cd6e58a8-542b-4255-8d91-9423be9024de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;guideContainer-rootPanel-panel1641789048390-panel_copy-guidebutton_1137967308___widget&quot;)</value>
+      <webElementGuid>9ec23ed2-735f-414a-8223-28c6f9abb9fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='guideContainer-rootPanel-panel1641789048390-panel_copy-guidebutton_1137967308___widget']</value>
+      <webElementGuid>e8f974fe-1e47-4771-8de2-5d4f3e04e7f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='guideContainer-rootPanel-panel1641789048390-panel_copy-guidebutton_1137967308__']/div/button</value>
+      <webElementGuid>11aa72b2-92ba-4eee-847d-335d4bd79195</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[2]/following::button[1]</value>
+      <webElementGuid>91824e44-3662-4418-beee-df34f891584a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HK$22,313.27'])[5]/following::button[2]</value>
+      <webElementGuid>a170a85d-491f-4667-b941-d2bdf4c2f0c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enrolment hotline'])[4]/preceding::button[1]</value>
+      <webElementGuid>04c50bb9-1d70-41a6-83b5-6a2be4ae4dec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div/div/div/div[7]/div/div/div/button</value>
+      <webElementGuid>a1702d54-a540-4ecb-bc99-4a92cb770522</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'guideContainer-rootPanel-panel1641789048390-panel_copy-guidebutton_1137967308___widget' and @name = 'guideContainer-rootPanel-panel1641789048390-panel_copy-guidebutton_1137967308___jqName' and (text() = '
+        
+        Next
+    ' or . = '
+        
+        Next
+    ')]</value>
+      <webElementGuid>2282de94-0267-4e0d-8022-d4dd66d935a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
